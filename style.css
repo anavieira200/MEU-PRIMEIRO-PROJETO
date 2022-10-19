@@ -1,0 +1,14 @@
+h1{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; -moz-repeating-linear-gradient();
+    color: white
+}
+body{
+    color: rgb(224, 198, 198);
+    background-image: url("https://mocah.org/uploads/posts/1231942-titanic.jpg");
+}
+p{
+    color: white;
+}
+h2{
+    color:  white;
+}
